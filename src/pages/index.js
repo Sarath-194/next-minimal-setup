@@ -1,3 +1,11 @@
+import { Item } from "../components/item";
+import '../components/item/item.css'
+
 export default function Index() {
-  return <h1>BOOP</h1>;
+  return (
+    <div>
+      <h2 className="header">This is next.js code</h2>
+      <Item />
+    </div>
+  ) 
 }
