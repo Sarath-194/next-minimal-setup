@@ -1,5 +1,5 @@
 export default function Index() {
   return (
-    <h1>This is Next.js App</h1>
+    <h1>This is Next.js App updated</h1>
     ) 
 }
